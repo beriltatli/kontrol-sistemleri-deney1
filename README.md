@@ -68,6 +68,3 @@ lsim(G, u, t);               % Keyfi giriş u(t) için yanıt
 
 Her betik bağımsızdır; `clc; clear;` ile başladığı için herhangi bir sırada çalıştırılabilir.
 
-## Hazırlayan
-
-[@beriltatli](https://github.com/beriltatli) — Kontrol Sistemleri dersi, Deney 1
